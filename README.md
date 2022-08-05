@@ -1,5 +1,5 @@
 ## <h1>Controle de uma lâmpada💡</h1>
-<h2>Projeto desenvolvido como exercício para aprimorar o conhecimento na programação.</h2>
+<h2>Projeto simples e desenvolvido como exercício para aprimorar o conhecimento na programação.</h2>
 
 <b>As ferramentas utilizadas no projeto foram:</b>
 <div style="display: inline_block"><br>
