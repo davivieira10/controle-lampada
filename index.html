@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Controle de uma lâmpada💡</title>
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/style.css">
+  </head>
+  <body>
+    <header class="cabecalho">
+       <h1 class="titulo">Controle de uma lâmpada💡</h1>
+       <img class="cabecalho-imagem" src="src/imagens/lampada-apagada.jpg" alt="Lâmpada" id="lamp" />
+    </header>
+    <form>
+      <input class="botao-imagem-acesa" type="button" value="Acender" onclick="lampadaAcesa()" />
+      <input class="botao-imagem-apagada" type="button" value="Apagar" onclick="lampadaApagada()" />
+      <input class="botao-imagem-piscando" type="button" value="Piscar" onclick="lampadaPiscando()" />
+      <input class="botao-imagem-quebrada" type="button" value="Quebrar" onclick="lampadaQuebrada()" />
+    </form>
+    <script src="src/js/controle.js"></script>
+  </body>
+</html>
