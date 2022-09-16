@@ -1,6 +1,8 @@
 ## <h1>Controle de uma lâmpada💡</h1>
 <h2>Projeto desenvolvido como exercício para aprimorar o conhecimento nas ferramentas de HTML, CSS e JavaScript.</h2>
 
+<img align="center" alt="Controle de uma lâmpada" src="https://i.postimg.cc/FFdpJj65/projeto-controle-lampada.png">
+
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/controle-lampada/)
 
 <b>As ferramentas utilizadas foram:</b>
